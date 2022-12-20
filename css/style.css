@@ -217,12 +217,12 @@ tr:first-child {
 }
 
 ul li i {
-  color: #8c8c8c;
-  padding: 25px 0;
-  overflow: hidden;
   font-size: 40px;
   width: 185px;
+  padding: 25px 0;
   text-align: center;
+  color: #8c8c8c;
+  overflow: hidden;
 }
 
 ul li i:hover {
