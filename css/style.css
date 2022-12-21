@@ -28,8 +28,8 @@
 }
 
 .btn:hover {
-  transition: 0.3s;
   color: #333;
+  transition: 0.3s;
 }
 
 .keyvisual {
